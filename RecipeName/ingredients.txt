@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 thing1llkk
+>>>>>>> myBranch
 thing2
 thing3
 thing4changed
-thing5
